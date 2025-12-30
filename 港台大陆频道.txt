@@ -473,6 +473,7 @@ CCTV14少儿,http://183.7.172.159:8888/hls/30/index.m3u8
 18+私密频道(免翻),#genre#
 极限电影台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/987.ts
 彩虹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/979.ts
+彩虹E,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/978.ts
 彩虹K,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/988.ts
 HAPPY,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/986.ts
 Banana香蕉台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/983.ts
