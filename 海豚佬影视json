@@ -39,13 +39,14 @@
         {
             "jar":"https://gitee.com/q309972108/tv/raw/master/jar/logo.png",
             "key": "天天",
-            "name": "📚天天┃守旺",
+            "name": "📚天天",
             "type": 3,
             "quickSearch": 0,
             "searchable": 1,
             "api": "csp_AppRJ",
             "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
         },
+        {"key":"天天","name":"天天┃高峰期用不了就点我换源或者搜索","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
         {
             "key": "配置",
             "name": "📥配置┃中心",
