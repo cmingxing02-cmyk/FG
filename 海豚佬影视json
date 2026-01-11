@@ -24,7 +24,7 @@
         },
         {
              "key": "猫抓",
-             "name": "🐬┃🐱猫抓影视",
+             "name": "🐬猫抓影视",
              "type": 3,"jar": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
              "api": "csp_AppGet",
              "ext": "https://dy.8ttv.cn|1111111111111111"
@@ -40,6 +40,16 @@
             "playerType":1,
             "changeable":1,
             "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
+        },
+        {
+            "key": "hipy_js_暖光影视",
+            "name": "🐬暖光影视",
+            "type": 3,
+            "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
         },
             {"key": "csp_Kugou",
 "name": "🐬酷狗音乐",
