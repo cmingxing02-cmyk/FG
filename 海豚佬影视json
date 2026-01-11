@@ -42,6 +42,16 @@
             "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
         },
         {
+             "key": "hipy_js_酷我听书[听]",
+             "name": "🐬酷我听书",
+              "type": 3,
+              "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
+              "searchable": 1,
+              "quickSearch": 1,
+              "filterable": 1,
+              "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/酷我听书[听].js"
+        },
+        {
             "key": "配置",
             "name": "📥配置┃中心",
             "type": 3,
