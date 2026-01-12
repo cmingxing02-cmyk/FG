@@ -182,6 +182,17 @@
               "searchable": 1,
               "quickSearch": 1,
               "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/爱上你听书网[听].js"
+        },
+        {
+            "key": "每日大赛",
+            "name": "🔞每日大赛",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "2",
+            "api": "csp_XBPQ",
+            "ext": "https://caicai.us.kg/cai/json/每日大赛.json"
         }
         ],
     "parses": [
