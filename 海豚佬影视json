@@ -258,7 +258,7 @@
         },
         {
 			"key": "py_动漫巴士",
-			"name": "🐬动漫巴士",
+			"name": "🐬动漫巴士｜动漫",
 			"type": 4,
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
 		},
