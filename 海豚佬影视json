@@ -1,3 +1,4 @@
+
 {
     "spider": "./tvbox.jar",
     "logo": "https://pic.616pic.com/bg_w1180/00/05/06/RoTR1jeT9X.jpg",
@@ -292,7 +293,7 @@
             "type": 0,
             "url": "https://jx.2s0.cn/player/?url="
         },
-        {  "name": "淡若青风4k",
+        {  "name": "淡若青风",
             "type": 1,
             "url": "http:\/\/121.40.174.45:299\/api\/?key=C929E46077B4A0H&url=",
         "ext": {
@@ -339,7 +340,8 @@
          }
        }
      },
-    {
+    
+     {
       "group": "软解码",
       "options": [
         {
